@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/travelapp/static/css/main.b8c32d14.css",
+    "main.js": "/travelapp/static/js/main.dd15eae0.js",
+    "static/media/banner.png": "/travelapp/static/media/banner.78ab5d99efec2018fbf4.png",
+    "static/media/amazingtour.png": "/travelapp/static/media/amazingtour.836b16630d2ed29f861f.png",
+    "static/media/weekend.png": "/travelapp/static/media/weekend.cec42c773df4cfbc1d7a.png",
+    "static/media/blog_img02.png": "/travelapp/static/media/blog_img02.c31cb2d1597d41d32545.png",
+    "static/media/aeroplane.png": "/travelapp/static/media/aeroplane.8c7b1f90fcf70f017178.png",
+    "static/media/blog_img01.png": "/travelapp/static/media/blog_img01.aa9eefc07506fe3d8585.png",
+    "static/media/newyork.png": "/travelapp/static/media/newyork.885c0600f2a3b0851d86.png",
+    "static/media/london.png": "/travelapp/static/media/london.72456f5dd4253537c551.png",
+    "static/media/holiday_tour.png": "/travelapp/static/media/holiday_tour.4787f2e7c39558d23381.png",
+    "index.html": "/travelapp/index.html",
+    "main.b8c32d14.css.map": "/travelapp/static/css/main.b8c32d14.css.map",
+    "main.dd15eae0.js.map": "/travelapp/static/js/main.dd15eae0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8c32d14.css",
+    "static/js/main.dd15eae0.js"
+  ]
+}
