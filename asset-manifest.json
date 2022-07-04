@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/travelapp/static/css/main.b8c32d14.css",
-    "main.js": "/travelapp/static/js/main.7d797d01.js",
+    "main.js": "/travelapp/static/js/main.37de1d25.js",
     "static/media/banner.png": "/travelapp/static/media/banner.78ab5d99efec2018fbf4.png",
     "static/media/amazingtour.png": "/travelapp/static/media/amazingtour.836b16630d2ed29f861f.png",
     "static/media/weekend.png": "/travelapp/static/media/weekend.cec42c773df4cfbc1d7a.png",
@@ -13,10 +13,10 @@
     "static/media/holiday_tour.png": "/travelapp/static/media/holiday_tour.4787f2e7c39558d23381.png",
     "index.html": "/travelapp/index.html",
     "main.b8c32d14.css.map": "/travelapp/static/css/main.b8c32d14.css.map",
-    "main.7d797d01.js.map": "/travelapp/static/js/main.7d797d01.js.map"
+    "main.37de1d25.js.map": "/travelapp/static/js/main.37de1d25.js.map"
   },
   "entrypoints": [
     "static/css/main.b8c32d14.css",
-    "static/js/main.7d797d01.js"
+    "static/js/main.37de1d25.js"
   ]
 }
